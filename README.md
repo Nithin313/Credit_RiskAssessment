@@ -6,7 +6,7 @@ A cut off will be chosen depending on the risk the investor is willing to take  
 
 The model created should be devoid of data disparity & noise.
 
-#Data Source
+# Data Source
 The text files contain complete loan data for all loans issued by XYZ Corp. through 2007-2015. It’s a tab separated file .The  dataset has 73 variable fields; The data contains attributes that are related to the borrowers' characteristics , platform's decisions (e.g., loan grade, interest rate) and the rest are related to the loan performance (e.g., status, total payment).
 
 The data should be divided into train (June 2007 - May 2015) and out-of-time test (June 2015 - Dec 2015) data. You will have use the training data to build models/analytical solution and finally apply it to test data to measure the performance and robustness of the models. 
